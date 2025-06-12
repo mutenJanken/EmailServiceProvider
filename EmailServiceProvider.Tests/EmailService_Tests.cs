@@ -9,7 +9,6 @@ using Moq;
 
 public class EmailServiceTests
 {
-    // Mycket AI genererad kod
     [Fact]
     public async Task SendEmail_ShouldReturnSuccessReply_WhenEmailIsSentSuccessfully()
     {

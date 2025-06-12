@@ -15,7 +15,7 @@ As a client: Copy the proto-file (***email.proto***) from EmailServiceProvider/P
 - Grpc.Net.ClientFactory
 - Google.Protobuf
 
-### Example use (Mostly AI generated)
+### Example use
 
 ```csharp
         // Setup gRPC channel to your service
